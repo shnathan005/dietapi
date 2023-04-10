@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+typing
+sklearn
+numpy
